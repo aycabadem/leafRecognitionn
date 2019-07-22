@@ -1,4 +1,4 @@
-Click [here](https://github.com/cem-ergin/MyApplication-master/blob/master/READMEnglish.md) for english readme file.
+Click [here](https://github.com/aycabadem/leafRecognitionn/blob/master/READMEnglish.md) for english readme file.
 
 # Proje Hakkında
 
